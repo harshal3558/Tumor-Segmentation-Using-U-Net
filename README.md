@@ -103,7 +103,7 @@ For the different preparations that I talked about in the course/blogs I have cr
 
 ![154864750-c55a3129-67c7-438a-8549-e2c45c433048](https://user-images.githubusercontent.com/37108394/156251291-a0911b63-41b6-4c8a-820b-a9bfec5e452b.png)
 
-## 🆕 NEW (coming soon) 
+
 
 Full course about medical imaging segmentation is coming soon, join the waitlist here:
 
